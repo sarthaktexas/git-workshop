@@ -8,6 +8,7 @@
     "start": "mdx-deck deck.mdx",
     "build": "mdx-deck build deck.mdx"
   },
+  "repository": "https://github.com/sarthaktexas/git-workshop",
   "author": "Sarthak Mohanty <sarthaktexas@gmail.com>",
   "license": "MIT",
   "dependencies": {

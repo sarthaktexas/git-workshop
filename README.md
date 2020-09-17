@@ -2,5 +2,5 @@
 Git Workshop for Youth Code Jam
 > These are slides, not code.
 
-- npm install
-- npm start
+- `npm install`
+- `npm start`
